@@ -8,9 +8,9 @@
 		<maven.build.timestamp.format>yyyyMMdd-HHmm</maven.build.timestamp.format>
 	</properties>
 	<scm>
-		<url>https://github.com/jaisob/Test.git</url>
-		<connection>scm:git:https://github.com/jaisob/Test.git</connection>
-		<developerConnection>scm:git:https://github.com/jaisob/Test.git</developerConnection>
+		<url>ssh://git@github.com:jaisob/Test.git</url>
+		<connection>scm:git:ssh://git@github.com:jaisob/Test.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:jaisob/Test.git</developerConnection>
 	  <tag>v0.0.2</tag>
   </scm>
 
